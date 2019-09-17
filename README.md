@@ -1,4 +1,6 @@
-# dotnetbay - A .NET Auction Bootstrapper 
+[![Build status](https://ci.appveyor.com/api/projects/status/6qx8jrv6k9orfq7j?svg=true)](https://ci.appveyor.com/project/FSiffer/dotnetbay-hs19)
+
+# dotnetbay - A .NET Auction Bootstrapper
 A bootstrap solution to build your own basic auction portal.
 
 ## Goals
